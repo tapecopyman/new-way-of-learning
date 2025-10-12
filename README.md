@@ -3,6 +3,7 @@
 
 - notebooklm : https://notebooklm.google.com/
 - ChatGPT : https://chatgpt.com/
+- Anki : https://ankiweb.net/
 
   
 
