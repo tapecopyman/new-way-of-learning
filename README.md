@@ -3,6 +3,8 @@
 
 - notebooklm : https://notebooklm.google.com/
 - ChatGPT : https://chatgpt.com/
+- GPTs 개념 학습 : https://chatgpt.com/g/g-BXcE00quZ-gaenyeom-hagseub-gaenyeomyi-jeongyiwa-gwanryeon-yongeo?model=gpt-4o
+  
 - Anki : https://ankiweb.net/
 
   
